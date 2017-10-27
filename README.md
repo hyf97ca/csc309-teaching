@@ -2,3 +2,6 @@
 
 ## Oct 27
 - [HTML](oct-27.html)
+
+
+## Contact: gregorywlodarek@gmail.com

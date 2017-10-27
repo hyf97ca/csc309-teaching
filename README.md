@@ -1,1 +1,1 @@
-# csc309-teaching
+# CSC309 Fall 2017
